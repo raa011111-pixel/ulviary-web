@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  /* Map indigo to a warm soft pink / rose shade to match Breeze's class defaults */
+  --color-indigo-50: #fff1f2;
+  --color-indigo-100: #ffe4e6;
+  --color-indigo-200: #fecdd3;
+  --color-indigo-300: #fda4af;
+  --color-indigo-400: #fb7185;
+  --color-indigo-500: #f43f5e;
+  --color-indigo-600: #e11d48;
+  --color-indigo-700: #be123c;
+  --color-indigo-800: #9f1239;
+  --color-indigo-900: #881337;
+  --color-indigo-950: #4c0519;
+
+  /* Custom palette colors */
+  --color-blush-50: #fff5f6;
+  --color-blush-100: #ffebeb;
+  --color-blush-200: #ffd6d9;
+  --color-blush-300: #ffb3b8;
+  --color-blush-400: #ff808b;
+  --color-blush-500: #ff4d5d;
+  --color-blush-600: #e62233;
+
+  --color-lavender-50: #faf5ff;
+  --color-lavender-100: #f3e8ff;
+  --color-lavender-200: #e9d5ff;
+  --color-lavender-300: #d8b4fe;
+  --color-lavender-400: #c084fc;
+  --color-lavender-500: #a855f7;
+  --color-lavender-600: #9333ea;
+  --color-lavender-700: #7e22ce;
+
+  --color-peach-50: #fffaf5;
+  --color-peach-100: #ffedd5;
+  --color-peach-200: #fed7aa;
+  --color-peach-300: #fdbb74;
+  --color-peach-400: #fb923c;
+  --color-peach-500: #f97316;
+}
